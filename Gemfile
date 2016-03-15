@@ -26,6 +26,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'spree', '~> 3.0.7'
 gem 'spree_auth_devise', '~> 3.0.5'
 gem 'spree_gateway', '~> 3.0.0'
+
+gem 'puma'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
